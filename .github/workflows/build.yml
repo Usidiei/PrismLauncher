@@ -47,7 +47,7 @@ jobs:
             artifact-name: Windows-MSVC
             cmake-preset: windows_msvc
             vcvars-arch: amd64
-            qt-version: 6.11.2
+            qt-version: 6.10.2
 
     runs-on: ${{ matrix.os }}
 
